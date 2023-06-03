@@ -9,10 +9,5 @@
         "ecmaVersion": "latest"
     },
     "rules": {
-        "quotes": "off",
-        "max-line-length": [
-            true,
-            140
-          ]
     }
 }
